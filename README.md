@@ -8,15 +8,17 @@ Design, simulate, verify, and deploy a working 16-bit processor that can execute
 
 ## Current Progress
 
-**25% complete**
+**35% complete**
 
 Completed:
 - CPU architecture and ISA planning
 - 16-bit ALU
 - ALU behavioral simulation and verification
+- 8 x 16-bit register file
+- Register file behavioral simulation and verification
 
 Next milestone:
-- 8 x 16-bit register file
+- 16-bit program counter
 
 ## Planned CPU Architecture
 
