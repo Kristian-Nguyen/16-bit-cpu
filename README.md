@@ -8,7 +8,7 @@ Design, simulate, verify, and deploy a working 16-bit processor that can execute
 
 ## Current Progress
 
-**55% complete**
+**65% complete**
 
 Completed:
 - CPU architecture and ISA planning
@@ -20,9 +20,12 @@ Completed:
 - Program counter behavioral simulation and verification
 - Instruction decoder and control unit
 - Control unit behavioral simulation and verification
+- Instruction memory
+- Data memory
+- Memory behavioral simulation and verification
 
 Next milestone:
-- Instruction and data memory
+- Full datapath integration
 
 ## Planned CPU Architecture
 
